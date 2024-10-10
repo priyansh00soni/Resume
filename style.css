@@ -1,0 +1,178 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+#everything {
+  border: 1px solid black;
+  width: 70%;
+}
+#pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  padding-top: 5px;
+}
+#top {
+  display: flex;
+  justify-content: space-around;
+}
+#name {
+  font-size: 60px;
+}
+#main{
+  display: flex;
+  justify-content: space-around;
+}
+#part1{
+  width: 50%;
+  border-right: 1px solid black;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
+#part2{
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h2{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  text-decoration: underline;
+}
+#contact{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 55px;
+  border-bottom: 1px solid black;
+}
+#education{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 21px;
+  font-weight: 600;
+}
+#projects{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+#skills{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 600;
+  border-top: 1px solid black;
+}
+#About{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 89px;
+}
+.pngs{
+  height: 25px;
+  width: 25px;
+  margin-right: 5px;
+}
+.continfo{
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size:larger;
+  font-weight: 600;
+}
+a{
+  text-decoration: none;
+}
+.edu{
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size:larger;
+}
+.skill{
+    display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: -10px;
+  margin-bottom: 42.5px;
+  font-size:larger;
+  
+}
+.pngs2{
+  height: 25px;
+  width: 25px;
+  margin-right: 5px;
+}
+.cent{
+  display: flex;
+
+  font-size: larger;
+}
+#mits{
+  margin-left: 75px;
+}
+#proj{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  gap: 9px;
+  font-weight: 600;
+}
+#btech{
+  margin-top: -30px;
+  margin-left: 5px;
+  font-weight: 600;
+}
+#personal-data{
+  margin-bottom: 87px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pers{
+  display: flex;
+  flex-direction: column;
+  font-weight: 600;
+  font-size: large;
+  justify-content: center;
+}
+
+.linked{
+  text-decoration: underline;
+  color:rgb(0, 38, 255);
+}
+.aboutline{
+  font-weight: 600;
+  font-size: 18px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+#add{
+  margin-top: 10px;
+  margin-right: -6px;
+}
